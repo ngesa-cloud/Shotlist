@@ -1,0 +1,6 @@
+{
+  "name": "Framecraft — Photoshoot Director & Prompt Studio",
+  "description": "Structured generative photoshoot director for Stable Diffusion, Midjourney, and ComfyUI. Configure LoRA weights, lighting rules, camera specs, and pivot between editorial aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
